@@ -1,8 +1,8 @@
-package ru.link.exercise_one.doors;
+package ru.link.exercise01.doors;
 
-import ru.link.exercise_one.doors.door_parts.DoorKey;
-import ru.link.exercise_one.doors.interfaces.Openable;
-import ru.link.exercise_one.doors.door_parts.DoorLock;
+import ru.link.exercise01.doors.door_parts.DoorKey;
+import ru.link.exercise01.doors.interfaces.Openable;
+import ru.link.exercise01.doors.door_parts.DoorLock;
 
 /**
  * Класс, описывающий дверь

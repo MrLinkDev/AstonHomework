@@ -1,10 +1,10 @@
-package ru.link.exercise_one;
+package ru.link.exercise01;
 
-import ru.link.exercise_one.doors.Door;
-import ru.link.exercise_one.doors.DoorFactory;
-import ru.link.exercise_one.doors.DoorFactoryPackage;
-import ru.link.exercise_one.doors.DoorMaterial;
-import ru.link.exercise_one.doors.door_parts.DoorKey;
+import ru.link.exercise01.doors.Door;
+import ru.link.exercise01.doors.DoorFactory;
+import ru.link.exercise01.doors.DoorFactoryPackage;
+import ru.link.exercise01.doors.DoorMaterial;
+import ru.link.exercise01.doors.door_parts.DoorKey;
 
 public class Main {
     // Создаём абстрактную дверь

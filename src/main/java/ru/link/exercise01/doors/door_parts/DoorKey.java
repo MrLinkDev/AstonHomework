@@ -1,4 +1,4 @@
-package ru.link.exercise_one.doors.door_parts;
+package ru.link.exercise01.doors.door_parts;
 
 import java.util.Arrays;
 

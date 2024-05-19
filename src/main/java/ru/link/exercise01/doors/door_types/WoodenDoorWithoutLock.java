@@ -1,6 +1,6 @@
-package ru.link.exercise_one.doors.door_types;
+package ru.link.exercise01.doors.door_types;
 
-import ru.link.exercise_one.doors.Door;
+import ru.link.exercise01.doors.Door;
 
 /**
  * Класс описывающий деревянную дверь без замка

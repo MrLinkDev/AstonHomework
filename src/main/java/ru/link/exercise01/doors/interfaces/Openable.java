@@ -1,6 +1,6 @@
-package ru.link.exercise_one.doors.interfaces;
+package ru.link.exercise01.doors.interfaces;
 
-import ru.link.exercise_one.doors.door_parts.DoorKey;
+import ru.link.exercise01.doors.door_parts.DoorKey;
 
 /**
  * Интерфейс, описывающий дверь, которую можно открыть

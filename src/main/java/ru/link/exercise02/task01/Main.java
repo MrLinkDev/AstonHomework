@@ -1,9 +1,9 @@
-package ru.link.exercise_two.task_one;
+package ru.link.exercise02.task01;
 
-import ru.link.exercise_two.task_one.car.Car;
-import ru.link.exercise_two.task_one.car.FuelType;
-import ru.link.exercise_two.task_one.car.types.Sedan;
-import ru.link.exercise_two.task_one.car.types.Truck;
+import ru.link.exercise02.task01.car.Car;
+import ru.link.exercise02.task01.car.FuelType;
+import ru.link.exercise02.task01.car.types.Sedan;
+import ru.link.exercise02.task01.car.types.Truck;
 
 public class Main {
     public static void main(String[] args) {

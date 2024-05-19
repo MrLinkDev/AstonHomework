@@ -1,6 +1,6 @@
-package ru.link.exercise_one.doors.door_parts;
+package ru.link.exercise01.doors.door_parts;
 
-import ru.link.exercise_one.doors.DoorFactory;
+import ru.link.exercise01.doors.DoorFactory;
 
 import java.util.Random;
 

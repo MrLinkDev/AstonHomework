@@ -1,4 +1,4 @@
-package ru.link.exercise_two.task_one.car;
+package ru.link.exercise02.task01.car;
 
 /**
  * Интерфейс, описывающий транспортное средство

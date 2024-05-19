@@ -1,7 +1,7 @@
-package ru.link.exercise_two.task_one.car.types;
+package ru.link.exercise02.task01.car.types;
 
-import ru.link.exercise_two.task_one.car.Car;
-import ru.link.exercise_two.task_one.car.FuelType;
+import ru.link.exercise02.task01.car.Car;
+import ru.link.exercise02.task01.car.FuelType;
 
 /**
  * Класс, в котором описан автомобиль типа грузовик
