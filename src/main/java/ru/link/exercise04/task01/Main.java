@@ -7,11 +7,13 @@ public class Main {
 
     public static void main(String[] args) {
         ArrayList<String> countries = new ArrayList<>();
+        countries.add("Russia");
+        countries.add("Egypt");
 
         printCollection("Initial collection", countries);
 
-        countries.add("Russia");
-        countries.add("Egypt");
+        countries.add("Poland");
+        countries.add("Japan");
         countries.add("Brazil");
 
         printCollection("After adding three countries", countries);
@@ -25,7 +27,7 @@ public class Main {
         countries.remove("Brazil");
         printCollection("After remove by value", countries);
 
-        System.out.printf("Index of Russia is: %d\n", countries.indexOf("Russia"));
+        System.out.printf("Index of Japan is: %d\n", countries.indexOf("Japan"));
 
         System.out.printf("Is Brazil exists in collection? Answer: %s\n", countries.contains("Brazil"));
         System.out.printf("Is Russia exists in collection? Answer: %s\n", countries.contains("Russia"));
