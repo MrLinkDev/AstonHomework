@@ -6,5 +6,7 @@ public class Main {
 
         System.out.println("Conflict code in develop");
         System.out.println("Conflict code in master");
+
+        System.out.println("Non-conflict code in develop");
     }
 }
